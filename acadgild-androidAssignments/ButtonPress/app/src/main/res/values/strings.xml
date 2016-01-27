@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check Button Press</string>
+    <string name="bt_text">Show Touch</string>
+    <string name="bt2_text">Show Text</string>
+</resources>
